@@ -1,5 +1,5 @@
 ---
-title: FDA批准基因工程改造家猪 可能用于生产潜在人类疗法
+title: Revivicor：FDA批准基因工程改造家猪 可能用于生产潜在人类疗法
 date: 2020-12-15 13:01:13
 categories:
 - 人工肾
@@ -25,7 +25,7 @@ FDA局长Stephen M. Hahn博士说：“今天FDA首次批准一种可同时用�
 
 新闻稿同时指出，FDA尚未评估这些猪用作异种移植产品或植入人类受试者。任何开发人员必须首先向FDA提交申请并获得批准，然后才能将这些产品用于人类医学。
 
-# 资讯来源
+## 资讯来源
 
 https://www.statnews.com/2020/12/14/fda-approves-genetically-altering-pigs/
 

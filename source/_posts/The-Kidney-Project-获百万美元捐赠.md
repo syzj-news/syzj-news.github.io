@@ -29,6 +29,6 @@ tags:
 
 迄今为止，约翰和马西亚·高德曼基金会已向“人工肾脏项目”拨款200万美元，使该基金会成为该项目最大的私人捐助者。
 
-# 资讯来源
+## 资讯来源
 
 https://pharmacy.ucsf.edu/news/2020/10/bioartificial-kidney-aims-mimic-natural-kidney-function-1-million-grant-john-marcia
