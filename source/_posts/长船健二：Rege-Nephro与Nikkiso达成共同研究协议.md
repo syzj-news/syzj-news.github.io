@@ -1,5 +1,5 @@
 ---
-title: 长船健二：Rege-Nephro与Nikkiso达成共同研究协议
+title: 长船健二：Rege Nephro与Nikkiso达成共同研究协议
 date: 2021-01-05 08:50:13
 categories:
 - 人工肾
